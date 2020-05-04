@@ -1,5 +1,5 @@
 # Aprende JavaScript para el internet de las cosas
-<img src="https://lh4.googleusercontent.com/gTZMsP45BJKoj6tRUA_em1TPryv-bd806fddOnDA85t_D2K7e7PJXiGNnQAsq3SbgfQkeUEeZKNNRtytmsgZ=w2572-h4575-rw" width="525"/>
+<img src="https://i.postimg.cc/yxyp7jY9/aprende-javascript-para-el-internet-de-las-cosas.jpg" width="525"/>
 
 Exposición de 5 minutos sobre JavaScript
 
